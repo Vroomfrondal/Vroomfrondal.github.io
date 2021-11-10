@@ -1117,7 +1117,7 @@ input, select, textarea {
 		width: 100%;
 		height: 100vh;
 		z-index: 1;
-		opacity: 55%;
+		opacity: 45%;
 	}
 
 		#bg:before, #bg:after {
