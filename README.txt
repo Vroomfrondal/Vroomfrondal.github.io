@@ -5,8 +5,9 @@ This is an HTML, CSS/SCSS, and JS template I used to develop my personal portfol
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Template Design:
+		Dimension by HTML5 UP
+		html5up.net | @ajlkn
 
 	Icons:
 		Font Awesome (fontawesome.io)
